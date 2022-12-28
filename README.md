@@ -1,7 +1,7 @@
 ## Contact
 #### 😃  &nbsp; Yongsu Jo
 #### 📩  &nbsp; shjoys92@gmail.com
-#### 📞  &nbsp; 010-2741-3664
+#### 📞  &nbsp; +821027413664
 
 ## What I work
 - Web Frontend & Backend Development
