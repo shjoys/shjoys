@@ -55,7 +55,7 @@
 
 ## Education
 
-🎓 Sogang University, Chemical & Biological Engineering (2011.03 ~ 2018.02)
+🎓 Sogang University, Chemical & Biological Engineering (Mar 2011 - Feb 2018)
 
 
 ## What I created
