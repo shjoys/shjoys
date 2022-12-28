@@ -8,38 +8,38 @@
 - Mobile Application Development with Expo
 
 ## I'm using
-<br>
-<img src="/public/img/javascript.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/react.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/vue.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/expo.png" width="60" height="60">
-<br>
-<br>
-<img src="/public/img/python.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/django.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/java.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/spring.png" width="60" height="60">
-<br>
-<br>
-<img src="/public/img/oracle.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/mariadb.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<br>
-<br>
-<img src="/public/img/intellij.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/vscode.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/dbeaver.png" width="60" height="60">
-&nbsp;&nbsp;&nbsp;
-<img src="/public/img/figma.png" width="60" height="60">
+<p>
+    <img src="/public/img/javascript.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/react.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/vue.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/expo.png" width="60" height="60">
+</p>
+<p>
+    <img src="/public/img/python.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/django.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/java.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/spring.png" width="60" height="60">
+</p>
+<p>
+    <img src="/public/img/oracle.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/mariadb.png" width="60" height="60">
+</p>
+<p>
+    <img src="/public/img/intellij.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/vscode.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/dbeaver.png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="/public/img/figma.png" width="60" height="60">
+</p>
 
 ## Work Experience
 > UBICUS, CRM Solution Developer (Oct 2019 - Sep 2022)
